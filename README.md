@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jukka-Pekka but you can call me JP</h1>
-<h3 align="center">A passionate developer from Finland</h3>
+<h3 align="center">A passionate web technologist orginally from Finland but living now on beatiful Copenhagen, Denmark</h3>
 
 - 🔭 I’m usually working on **JavaScripts and .NET building web applications and sites**
 
